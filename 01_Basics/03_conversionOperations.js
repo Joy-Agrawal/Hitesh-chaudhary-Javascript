@@ -47,7 +47,7 @@ console.log(2+2+"1") // 41
 
 console.log(true) //true
 console.log(+true) // 1
-console.log(true+) //error
+// console.log(true+) //error
 
 console.log(+"") //0
 
